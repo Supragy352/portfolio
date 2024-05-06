@@ -1,0 +1,1866 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"\"settings\""
+			],
+			[
+				"gri",
+				"grid-row"
+			],
+			[
+				"footer_",
+				"footer__icon"
+			],
+			[
+				"borra",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"flex",
+				"flexbox"
+			],
+			[
+				"lo",
+				"lorentz.png"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"ps",
+				"p5js.html"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"ul",
+				"ul"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"cente",
+				"center"
+			],
+			[
+				"wrap",
+				"word-wrap"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"h1",
+				"h1"
+			],
+			[
+				"colo",
+				"bgcolor"
+			],
+			[
+				"lin",
+				"link"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"htm",
+				"html\thtml"
+			],
+			[
+				"fol",
+				"folder_exclude_patterns"
+			],
+			[
+				"Sett",
+				"\"settings\""
+			],
+			[
+				"i",
+				"internal.html"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"get",
+				"get_pressed"
+			],
+			[
+				"event",
+				"Event"
+			],
+			[
+				"pygame",
+				"pygame"
+			],
+			[
+				"pygam",
+				"pygame\tpygame"
+			],
+			[
+				"set",
+				"set_mode"
+			],
+			[
+				"Vec",
+				"Vec3"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"b",
+				"Ball"
+			],
+			[
+				"acc",
+				"ACCELERATION"
+			],
+			[
+				"bal",
+				"ball_velocity"
+			],
+			[
+				"sce",
+				"screen"
+			],
+			[
+				"ball",
+				"ball_pos"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"pla",
+				"player_pos"
+			],
+			[
+				"player",
+				"player_pos"
+			],
+			[
+				"screen",
+				"screen"
+			],
+			[
+				"p",
+				"pygame"
+			],
+			[
+				"plae",
+				"player_pos"
+			],
+			[
+				"is",
+				"is_on"
+			],
+			[
+				"QUI",
+				"QUIT"
+			],
+			[
+				"prin",
+				"printf\tprintf …"
+			],
+			[
+				"NUmber",
+				"NumberPlane"
+			],
+			[
+				"red",
+				"RED"
+			],
+			[
+				"interac",
+				"interactive_embed"
+			],
+			[
+				"colr",
+				"color"
+			],
+			[
+				"Number",
+				"NumberPlane"
+			],
+			[
+				"intera",
+				"interactive_embed"
+			],
+			[
+				"Opn",
+				"OpenGLSurface"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"Degre",
+				"DEGREES"
+			],
+			[
+				"lis",
+				"list1"
+			],
+			[
+				"sc",
+				"scene"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"square",
+				"square"
+			],
+			[
+				"Do",
+				"Dot"
+			],
+			[
+				"Nu",
+				"NumberPlane"
+			],
+			[
+				"QUL",
+				"QUALITY_FLAGS"
+			],
+			[
+				"cm",
+				"\"cmd\""
+			],
+			[
+				"terminus",
+				"terminus_exec"
+			],
+			[
+				"tar",
+				"\"target\""
+			],
+			[
+				"na",
+				"\"name\""
+			],
+			[
+				"build",
+				"\"build_systems\""
+			],
+			[
+				"to",
+				"to_edge"
+			],
+			[
+				"m",
+				"manim"
+			],
+			[
+				"pr",
+				"project_path"
+			],
+			[
+				"ma",
+				"manim"
+			],
+			[
+				"print",
+				"print"
+			],
+			[
+				"inc",
+				"Inc\t#include <…>"
+			],
+			[
+				"GetK",
+				"GetKeyDown"
+			],
+			[
+				"Rigid",
+				"Rigidbody2D"
+			],
+			[
+				"put",
+				"puts()"
+			],
+			[
+				"INc",
+				"Inc\t#include <…>"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			],
+			[
+				"stdi",
+				"stdio.h"
+			],
+			[
+				"for",
+				"for\tfor"
+			],
+			[
+				"random",
+				"randomCounts"
+			],
+			[
+				"backgroun",
+				"background\tbackground grey alpha"
+			],
+			[
+				"rando",
+				"randomCounts"
+			],
+			[
+				"std",
+				"stdio.h"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8673,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"GLFW - all",
+					""
+				],
+				[
+					"GLFW - allocator",
+					""
+				],
+				[
+					"GLFW - allocator/fast",
+					""
+				],
+				[
+					"GLFW - boing",
+					""
+				],
+				[
+					"GLFW - boing/fast",
+					""
+				],
+				[
+					"GLFW - clean",
+					""
+				],
+				[
+					"GLFW - clipboard",
+					""
+				],
+				[
+					"GLFW - clipboard/fast",
+					""
+				],
+				[
+					"GLFW - cursor",
+					""
+				],
+				[
+					"GLFW - cursor/fast",
+					""
+				],
+				[
+					"GLFW - edit_cache",
+					""
+				],
+				[
+					"GLFW - empty",
+					""
+				],
+				[
+					"GLFW - empty/fast",
+					""
+				],
+				[
+					"GLFW - events",
+					""
+				],
+				[
+					"GLFW - events/fast",
+					""
+				],
+				[
+					"GLFW - gamma",
+					""
+				],
+				[
+					"GLFW - gamma/fast",
+					""
+				],
+				[
+					"GLFW - gears",
+					""
+				],
+				[
+					"GLFW - gears/fast",
+					""
+				],
+				[
+					"GLFW - glfw",
+					""
+				],
+				[
+					"GLFW - glfw/fast",
+					""
+				],
+				[
+					"GLFW - glfwinfo",
+					""
+				],
+				[
+					"GLFW - glfwinfo/fast",
+					""
+				],
+				[
+					"GLFW - heightmap",
+					""
+				],
+				[
+					"GLFW - heightmap/fast",
+					""
+				],
+				[
+					"GLFW - icon",
+					""
+				],
+				[
+					"GLFW - icon/fast",
+					""
+				],
+				[
+					"GLFW - iconify",
+					""
+				],
+				[
+					"GLFW - iconify/fast",
+					""
+				],
+				[
+					"GLFW - inputlag",
+					""
+				],
+				[
+					"GLFW - inputlag/fast",
+					""
+				],
+				[
+					"GLFW - install",
+					""
+				],
+				[
+					"GLFW - install/local",
+					""
+				],
+				[
+					"GLFW - install/strip",
+					""
+				],
+				[
+					"GLFW - joysticks",
+					""
+				],
+				[
+					"GLFW - joysticks/fast",
+					""
+				],
+				[
+					"GLFW - list_install_components",
+					""
+				],
+				[
+					"GLFW - monitors",
+					""
+				],
+				[
+					"GLFW - monitors/fast",
+					""
+				],
+				[
+					"GLFW - msaa",
+					""
+				],
+				[
+					"GLFW - msaa/fast",
+					""
+				],
+				[
+					"GLFW - offscreen",
+					""
+				],
+				[
+					"GLFW - offscreen/fast",
+					""
+				],
+				[
+					"GLFW - particles",
+					""
+				],
+				[
+					"GLFW - particles/fast",
+					""
+				],
+				[
+					"GLFW - rebuild_cache",
+					""
+				],
+				[
+					"GLFW - reopen",
+					""
+				],
+				[
+					"GLFW - reopen/fast",
+					""
+				],
+				[
+					"GLFW - sharing",
+					""
+				],
+				[
+					"GLFW - sharing/fast",
+					""
+				],
+				[
+					"GLFW - splitview",
+					""
+				],
+				[
+					"GLFW - splitview/fast",
+					""
+				],
+				[
+					"GLFW - tearing",
+					""
+				],
+				[
+					"GLFW - tearing/fast",
+					""
+				],
+				[
+					"GLFW - threads",
+					""
+				],
+				[
+					"GLFW - threads/fast",
+					""
+				],
+				[
+					"GLFW - timeout",
+					""
+				],
+				[
+					"GLFW - timeout/fast",
+					""
+				],
+				[
+					"GLFW - title",
+					""
+				],
+				[
+					"GLFW - title/fast",
+					""
+				],
+				[
+					"GLFW - triangle-opengl",
+					""
+				],
+				[
+					"GLFW - triangle-opengl/fast",
+					""
+				],
+				[
+					"GLFW - triangle-opengles",
+					""
+				],
+				[
+					"GLFW - triangle-opengles/fast",
+					""
+				],
+				[
+					"GLFW - triangle-vulkan",
+					""
+				],
+				[
+					"GLFW - triangle-vulkan/fast",
+					""
+				],
+				[
+					"GLFW - uninstall",
+					""
+				],
+				[
+					"GLFW - update_mappings",
+					""
+				],
+				[
+					"GLFW - wave",
+					""
+				],
+				[
+					"GLFW - wave/fast",
+					""
+				],
+				[
+					"GLFW - window",
+					""
+				],
+				[
+					"GLFW - window/fast",
+					""
+				],
+				[
+					"GLFW - windows",
+					""
+				],
+				[
+					"GLFW - windows/fast",
+					""
+				]
+			],
+			[
+				"GLFW - all",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Bot.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TerminusPython.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/TerminusPython.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"open",
+				"Open Containing Folder…"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"live",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ui ",
+				"UI: Select Theme"
+			],
+			[
+				"mono",
+				"Monokai Pro: select theme"
+			],
+			[
+				"theme",
+				"Monokai Pro: select theme"
+			],
+			[
+				"monokao",
+				"Monokai Pro: select theme"
+			],
+			[
+				"monoka",
+				"Monokai Pro: select theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"themn",
+				"Set Syntax: Sublime Text Theme (JSON)"
+			],
+			[
+				"lsp",
+				"Preferences: LSP-json Settings"
+			],
+			[
+				"projevt",
+				"Project: Save As"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"vpf",
+				"View Package File"
+			],
+			[
+				"nrw snipp",
+				"PackageDev: New Raw Snippet"
+			],
+			[
+				"prefter",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"termi",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"can",
+				"Build: Cancel"
+			],
+			[
+				"cance",
+				"Build: Cancel"
+			],
+			[
+				"pyrigh",
+				"LSP-pyright: Create Pyright Configuration File"
+			],
+			[
+				"snippet",
+				"PackageDev: New Raw Snippet"
+			],
+			[
+				"gd",
+				"LSP: Goto Declaration"
+			],
+			[
+				"lsp ",
+				"LSP: Goto Definition"
+			],
+			[
+				"gtd",
+				"LSP: Goto Type Definition"
+			],
+			[
+				"lsgd",
+				"LSP: Goto Declaration"
+			],
+			[
+				"lspgt",
+				"LSP: Goto Type Definition"
+			],
+			[
+				"list pakc",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"lsp gtd",
+				"LSP: Goto Type Definition"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"ope",
+				"Open Containing Folder…"
+			],
+			[
+				"open contai",
+				"Open Containing Folder…"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"op",
+				"Open Containing Folder…"
+			],
+			[
+				"open cin",
+				"Open Containing Folder…"
+			],
+			[
+				"shells",
+				"Terminus: List Shells"
+			],
+			[
+				"teminus",
+				"Terminus: Close"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"browse pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"lsp disa",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"configure",
+				"LSP-pyright: Create Pyright Configuration File"
+			],
+			[
+				"pyright",
+				"Preferences: LSP-pyright Settings"
+			],
+			[
+				"lspsett",
+				"Preferences: LSP-pylsp Settings"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"canc",
+				"Build: Cancel"
+			],
+			[
+				"shell",
+				"Terminus: List Shells"
+			],
+			[
+				"lspjson",
+				"Preferences: LSP-json Settings"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				":w",
+				":wq - Save and Quit"
+			],
+			[
+				"disbale",
+				"Package Control: Disable Package"
+			],
+			[
+				"terminus pre",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"pylsp",
+				"Preferences: LSP-pylsp Settings"
+			],
+			[
+				"preferencespyl",
+				"Preferences: LSP-pylsp Settings"
+			],
+			[
+				"virtual",
+				"Build With: Python + Virtualenv"
+			],
+			[
+				"lsp pref",
+				"Preferences: LSP Settings"
+			],
+			[
+				"newbuil",
+				"PackageDev: New Build System"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"newsnipp",
+				"PackageDev: New Raw Snippet"
+			],
+			[
+				"lspenal",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"language",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp pre",
+				"Preferences: LSP Settings"
+			],
+			[
+				"codeac",
+				"LSP: Code Action…"
+			],
+			[
+				"terminu",
+				"Terminus: List Shells"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"add rep",
+				"Package Control: Add Repository"
+			],
+			[
+				"oepn",
+				"Open Containing Folder…"
+			],
+			[
+				"terminus settings",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"settings termi",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"cancel",
+				"Build: Cancel"
+			],
+			[
+				":q",
+				":q - Quit"
+			],
+			[
+				"help",
+				"Help: Indexing Status"
+			],
+			[
+				"clean",
+				"Build With: Make - Clean"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings"
+			],
+			[
+				"theme termi",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"termius ",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"termius setting",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"lclang",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"devdocs",
+				"Devdocs: Show Definition"
+			],
+			[
+				"devdoc",
+				"DevDocs: Search From Selection"
+			],
+			[
+				"set syntac",
+				"Set Syntax: C"
+			],
+			[
+				"stage",
+				"Set Syntax: Git Ignore"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"save proje",
+				"Project: Save As"
+			],
+			[
+				"buil",
+				"Build: Cancel"
+			],
+			[
+				"new file",
+				"New File"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"preferen",
+				"Preferences: Settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"open ",
+				"Open Containing Folder…"
+			],
+			[
+				"new",
+				"Build: New Build System"
+			],
+			[
+				"save pro",
+				"Project: Save As"
+			],
+			[
+				"new build",
+				"Build: New Build System"
+			],
+			[
+				"cancl",
+				"Build: Cancel"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"keybing terminus",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"chee",
+				"UI: Select Color Scheme"
+			],
+			[
+				"instll",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"ls",
+			"print(\"Hello\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Dev/HTML/portfolio",
+		"/C/Dev/HTML/portfolio/assets",
+		"/C/Dev/HTML/portfolio/assets/img"
+	],
+	"file_history":
+	[
+		"/C/Dev/HTML/portfolio/backupportfolio.sublime-project",
+		"/C/Users/mishr/AppData/Roaming/Sublime Text/Packages/ProjectSpecificKeys/README.md",
+		"/C/Dev/HTML/portfolio/index.html",
+		"/C/Dev/HTML/portfolio/assets/css/styles.css",
+		"/C/Dev/HTML/selfPortfolio/style.css",
+		"/C/Dev/HTML/selfPortfolio/index.html",
+		"/C/Dev/HTML/selfPortfolio/11.0 Bootstrap Intro/index.html",
+		"/C/Dev/HTML/selfPortfolio/11.0 Bootstrap Intro/solution.html",
+		"/C/Dev/HTML/selfPortfolio/project.html",
+		"/C/Dev/HTML/selfPortfolio/pstyle.css",
+		"/C/Dev/HTML/selfPortfolio/p5/style.css",
+		"/C/Dev/HTML/selfPortfolio/cstyle.css",
+		"/C/Dev/HTML/selfPortfolio/p5/index.html",
+		"/C/Dev/HTML/selfPortfolio/contact.html",
+		"/C/Dev/HTML/selfPortfolio/about.html",
+		"/C/Dev/HTML/selfPortfolio/astyle.css",
+		"/C/Dev/HTML/selfPortfolio/send_email.php",
+		"/C/Dev/HTML/selfPortfolio/phpinfo.php",
+		"/C/Dev/HTML/selfPortfolio/7.1 Combining Selectors/index.html",
+		"/C/Dev/HTML/selfPortfolio/7.1 Combining Selectors/style.css",
+		"/C/Dev/HTML/selfPortfolio/7.0+CSS+Cascade/style.css",
+		"/C/Dev/HTML/selfPortfolio/7.0+CSS+Cascade/solution/solution.css",
+		"/C/Dev/HTML/selfPortfolio/6.3 CSS Box Model/index.html",
+		"/C/Dev/HTML/selfPortfolio/6.1 Font Properties/index.html",
+		"/C/Dev/HTML/selfPortfolio/6.1 Font Properties/font-family.html",
+		"/C/Dev/HTML/selfPortfolio/portfolio.sublime-project",
+		"/C/Dev/HTML/selfPortfolio/5.1. Adding CSS/index.html",
+		"/C/Dev/HTML/selfPortfolio/5.1. Adding CSS/style.css",
+		"/C/Dev/HTML/selfPortfolio/5.1. Adding CSS/external.html",
+		"/C/Dev/HTML/selfPortfolio/5.1. Adding CSS/internal.html",
+		"/C/Dev/HTML/selfPortfolio/5.1. Adding CSS/inline.html",
+		"/C/Dev/HTML/selfPortfolio/script.js",
+		"/C/Dev/PythonProjects/gui/guitkinter.py",
+		"/C/Dev/PythonProjects/gui/tkinter.py",
+		"/C/Users/mishr/Videos/Didi Reel/tkinter.py",
+		"/C/Users/mishr/Videos/Didi Reel/music",
+		"/C/Dev/PythonProjects/pygame/Scripts/mengerSponge/sponge.py",
+		"/C/Users/mishr/AppData/Local/Temp/74115791-4d17-4f29-ac5e-ab6fa6145443_p5.zip.443/p5/p5.js",
+		"/C/Users/mishr/AppData/Roaming/Sublime Text/Packages/User/pygame.sublime-snippet",
+		"/C/Dev/PythonProjects/pygame/Scripts/starfield/starfield.py",
+		"/C/Users/mishr/AppData/Roaming/Sublime Text/Packages/User/init.sublime-snippet",
+		"/C/Dev/PythonProjects/pygame/Scripts/util.py",
+		"/C/Dev/PythonProjects/pygame/Scripts/starfield.py",
+		"/C/Dev/PythonProjects/pygame/Scripts/new.py",
+		"/C/Dev/PythonProjects/pygame/pyrightconfig.json",
+		"/C/Users/mishr/AppData/Roaming/Python/Python311/site-packages/pygame/draw.pyi",
+		"/C/Dev/PythonProjects/pygame/Scripts/slingshot.py",
+		"/C/Users/mishr/AppData/Roaming/Python/Python311/site-packages/pygame/__init__.py",
+		"/C/Dev/PythonProjects/pygame/Scripts/ball.py",
+		"/D/Dev/C/physics/include/mathlib.h",
+		"/C/Dev/PythonProjects/pygame/Scripts/boids.py",
+		"/C/Users/mishr/AppData/Roaming/Python/Python311/site-packages/pygame/key.pyi",
+		"/C/Dev/PythonProjects/pygame/Scripts/spring.py",
+		"/C/Users/mishr/AppData/Roaming/Python/Python311/site-packages/pygame/time.pyi",
+		"/C/Users/mishr/AppData/Roaming/Python/Python311/site-packages/pygame/event.pyi",
+		"/C/Users/mishr/AppData/Roaming/Python/Python311/site-packages/pygame/base.pyi",
+		"/C/Users/mishr/AppData/Roaming/Python/Python311/site-packages/pygame/surface.pyi",
+		"/C/Dev/PythonProjects/pygame/Scripts/main.py",
+		"/C/Dev/C/opengl/src/main.c",
+		"/C/Dev/PythonProjects/manim_ce/media/videos/main/1080p60/Anim.mp4",
+		"/C/Dev/PythonProjects/manim_ce/media/videos/main/1080p60/ContinuousMotion.mp4",
+		"/C/Dev/PythonProjects/manim_ce/main.py",
+		"/C/Dev/PythonProjects/manim_ce/media/videos/default/1080p60/Surfaces.mp4",
+		"/C/Dev/PythonProjects/manim_ce/updater.py",
+		"/C/Users/mishr/Desktop/data.csv",
+		"/C/Dev/PythonProjects/manim_ce/default.py",
+		"/C/Program Files/Python311/Lib/site-packages/manim/scene/scene.py",
+		"/C/Dev/PythonProjects/manim_ce/fallingball.py",
+		"/C/Dev/PythonProjects/manim_ce/manim.sublime-project",
+		"/C/Dev/PythonProjects/manim_ce/Makefile",
+		"/C/Program Files/Python311/Lib/types.py",
+		"/C/Dev/PythonProjects/manim_ce/dmain.py",
+		"/C/Dev/PythonProjects/manim_ce/main3.py",
+		"/C/Dev/PythonProjects/manim_ce/media/videos/main/1080p60/StreamFlow.mp4",
+		"/C/Dev/PythonProjects/manim_ce/pyrightconfig.json",
+		"/C/Dev/PythonProjects/manim_ce/manim/Lib/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py",
+		"/C/Dev/PythonProjects/manim_ce/manim/pyvenv.cfg",
+		"/C/Python311/Lib/site-packages/manim/mobject/geometry/polygram.py",
+		"/C/Dev/PythonProjects/manim_ce/manim/Lib/site-packages/manim/mobject/geometry/polygram.py",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/LSP/LSP.sublime-settings",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/User/Virtualenv.sublime-settings",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/User/sublime",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/Virtualenv/Virtualenv.sublime-settings",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/Virtualenv/README.md",
+		"/C/Dev/PythonProjects/manim_ce/manim/Lib/site-packages/moderngl_window/scene/scene.py",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/main.c",
+		"/C/Dev/SDL/src/main.c",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/c.sublime-project",
+		"/C/Users/mishr_kctvc0v/VirtualBox VMs/Arch/Arch.vbox-prev",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/makefile",
+		"/C/MinGW/lib/gcc/mingw32/6.3.0/include/tgmath.h",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/Makefile/Make.sublime-build",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/User/TermiusC.sublime-build",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/Makefile.sublime-package",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/include/stage.h",
+		"/K/Folder/engine-from-scratch/src/main.c",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/.bashrc",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/doc_2023-02-13_15-25-16.bashrc",
+		"/E/Jay/pi/pi/.bashrc",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/main.py",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/main.exe",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/complie_commands.json",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/game/blockamok/src/draw.c",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/game/blockamok/Makefile",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/game/blockamok/src/game.h",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/game/blockamok/src/main.c",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/game/blockamok/src/draw.h",
+		"/C/Users/mishr_kctvc0v/package-lock.json",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/CMakeLists.txt",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/Makefile",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/MAKEFILE",
+		"/E/Jay/Movies/Black Panther Wakanda Forever (2022) [1080p] [BluRay] [5.1] [YTS.MX]/Black.Panther.Wakanda.Forever.2022.1080p.BluRay.x264.AAC5.1-[YTS.MX].srt",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/DevDocs offline/Devdocs offline.sublime-commands",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/DevDocs offline/DevDocs offline.py",
+		"/C/Program Files (x86)/Windows Kits/10/Include/10.0.22000.0/ucrt/stdio.h",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/stage.h",
+		"/C/Users/mishr_kctvc0v/UnityProjects/gamedev101/Assets/Scripts/$metadata$/Project/Assembly-CSharp/Assembly/UnityEngine/CoreModule/Symbol/UnityEngine/Vector2.cs",
+		"/C/Users/mishr_kctvc0v/UnityProjects/gamedev101/Assets/Scripts/Initialise.cs",
+		"/C/Users/mishr_kctvc0v/UnityProjects/gamedev101/Assets/Scripts/birdScript.cs",
+		"/C/Users/mishr_kctvc0v/UnityProjects/gamedev101/Assets/Scripts/$metadata$/Project/Assembly-CSharp/Assembly/UnityEngine/CoreModule/Symbol/UnityEngine/Debug.cs",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/Web/index.html",
+		"/?wsl.localhost/Ubuntu/home/ubuntucallisto/.bashrc",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/FBO- External Question Paper 2021-22 SEM 1.pdf",
+		"/C/TurboC++/Disk/TurboC3/BIN/CUBE.C",
+		"/?wsl.localhost/kali-linux/home/callisto/.bashrc",
+		"/E/Jay/pi/pi/.config/nvim/init.vim",
+		"/E/Jay/pi/pi/programs/arduino/.arduino15/inventory.yaml",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/mirrorlist"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"perf",
+			"work__im",
+			"bxl-html5",
+			"bx bxl-html5",
+			"home__img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 8673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1196,
+								1196
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": "\\",
+									"selector": "text.tex.latex"
+								},
+								{
+									"characters": ".:<\"=/",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-html"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///C:/Dev/HTML/portfolio/index.html",
+							"show_definitions": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Live Server":
+	{
+		"height": 170.0
+	},
+	"output.Powershell":
+	{
+		"height": 340.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 202.0
+	},
+	"output.diagnostics":
+	{
+		"height": 144.0
+	},
+	"output.exec":
+	{
+		"height": 256.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 182.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "backupportfolio.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"assets\\css\\styles.css"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"st",
+				"assets\\css\\styles.css"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"sy",
+				"style.css"
+			],
+			[
+				"ps",
+				"pstyle.css"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"csty",
+				"cstyle.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"styl",
+				"style.css"
+			],
+			[
+				"ro",
+				"project.html"
+			],
+			[
+				"cs",
+				"cstyle.css"
+			],
+			[
+				"con",
+				"contact.html"
+			],
+			[
+				"as",
+				"astyle.css"
+			],
+			[
+				"abou",
+				"about.html"
+			],
+			[
+				"s",
+				"style.css"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"po",
+				"portfolio.sublime-project"
+			],
+			[
+				"pr",
+				"portfolio.sublime-project"
+			],
+			[
+				"sublime",
+				"portfolio.sublime-project"
+			],
+			[
+				"sublim",
+				"portfolio.sublime-project"
+			],
+			[
+				"",
+				"portfolio.sublime-project"
+			],
+			[
+				"exter",
+				"5.1. Adding CSS\\external.html"
+			],
+			[
+				"inline",
+				"5.1. Adding CSS\\inline.html"
+			],
+			[
+				"intre",
+				"5.1. Adding CSS\\internal.html"
+			],
+			[
+				"sta",
+				"Scripts\\starfield\\starfield.py"
+			],
+			[
+				"util",
+				"Scripts\\util.py"
+			],
+			[
+				"new",
+				"Scripts\\new.py"
+			],
+			[
+				"nw",
+				"Scripts\\new.py"
+			],
+			[
+				"main",
+				"Scripts\\main.py"
+			],
+			[
+				"m",
+				"main.py"
+			],
+			[
+				"py",
+				"default.py"
+			],
+			[
+				"fa",
+				"fallingball.py"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"fall",
+				"fallingball.py"
+			],
+			[
+				"d",
+				"dmain.py"
+			],
+			[
+				"ma",
+				"main3.py"
+			],
+			[
+				"sublimp",
+				"manim.sublime-project"
+			],
+			[
+				"mak",
+				"Makefile"
+			],
+			[
+				"makefile",
+				"manim\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports\\makefile.py"
+			],
+			[
+				"proje",
+				"manim.sublime-project"
+			],
+			[
+				"proj",
+				"manim.sublime-project"
+			],
+			[
+				"pro",
+				"manim.sublime-project"
+			],
+			[
+				"ain",
+				"C\\main.c"
+			],
+			[
+				"projec",
+				"C\\c.sublime-project"
+			],
+			[
+				"stage",
+				"include\\stage.h"
+			],
+			[
+				"cma",
+				"CMakeLists.txt"
+			],
+			[
+				"wa",
+				"Walker.pde"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 599.0,
+		"last_filter": "ray",
+		"selected_items":
+		[
+			[
+				"ray",
+				"C:\\Dev\\C\\platformer\\ray_platformer.sublime-project"
+			],
+			[
+				"",
+				"C:\\Dev\\PythonProjects\\manimVideos\\manimVideos.sublime-project"
+			],
+			[
+				"manim",
+				"C:\\Dev\\PythonProjects\\manimVideos\\manimVideos.sublime-project"
+			],
+			[
+				"port",
+				"C:\\Dev\\HTML\\selfPortfolio\\portfolio.sublime-project"
+			],
+			[
+				"raypla",
+				"C:\\Dev\\C\\platformer\\ray_platformer.sublime-project"
+			],
+			[
+				"fami",
+				"C:\\Dev\\HTML\\CT\\familywebpage.sublime-project"
+			]
+		],
+		"width": 454.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 332.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

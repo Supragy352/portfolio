@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"keys":
+	[
+		{
+	        "keys": ["alt+`","alt+l"],
+	        "command": "toggle_terminus_panel",
+	        "args": {
+	            "panel_name": "Live Server",
+	            "cmd": ["live-server"],
+	    },
+    },
+	]
+}
