@@ -1,4 +1,4 @@
- /*===== GOOGLE FONTS =====*/
+/*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 /*===== VARIABLES CSS =====*/
 :root {
@@ -7,8 +7,8 @@
   /*===== Colores =====*/
   /*Purple 260 - Red 355 - Blue 224 - Pink 340*/
   --hue-color: 224;
-  --first-color: #F05941;
-  --second-color: #ffffff;
+  --first-color: hsl(var(--hue-color), 89%, 60%);
+  --second-color: hsl(var(--hue-color), 56%, 12%);
 
 /*Fonts*/
   --body-font: "JetBrains Mono", sans-serif;
@@ -112,7 +112,7 @@ img {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #872341;
+  background-color: #fff;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
 }
 
@@ -212,7 +212,7 @@ img {
 .home__img {
   position: absolute;
   right: 0;
-  top: 100px;
+  bottom: 0;
   border-radius: 10px;
   width: 2000px;
 }
@@ -347,7 +347,7 @@ img {
 
 /* ===== FOOTER =====*/
 .footer {
-  background-color: #872341;
+  background-color: var(--second-color);
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
