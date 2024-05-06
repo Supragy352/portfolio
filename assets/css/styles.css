@@ -1,6 +1,5 @@
 /*===== GOOGLE FONTS =====*/
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
-/*===== VARIABLES CSS =====*/
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 :root {
   --header-height: 3rem;
   --font-semi: 600;
@@ -43,6 +42,7 @@
 
 html {
   scroll-behavior: smooth;
+  zoom: 150%;
 }
 
 body {
