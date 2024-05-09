@@ -780,12 +780,20 @@
 		"selected_items":
 		[
 			[
-				"git push",
+				"push",
 				"Git: Push"
 			],
 			[
 				"git comm",
 				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Add All"
+			],
+			[
+				"git push",
+				"Git: Push"
 			],
 			[
 				"git a",
@@ -802,10 +810,6 @@
 			[
 				"git add",
 				"Git: Add All"
-			],
-			[
-				"push",
-				"Git: Push"
 			],
 			[
 				"commit",
@@ -1286,10 +1290,6 @@
 			[
 				"colo",
 				"UI: Select Color Scheme"
-			],
-			[
-				"chee",
-				"UI: Select Color Scheme"
 			]
 		],
 		"width": 0.0
@@ -1451,7 +1451,7 @@
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 50.0
 	},
 	"find_in_files":
 	{
@@ -1465,6 +1465,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"html",
 			"header",
 			"var(--second-color)",
 			"nav__menu",
@@ -1538,7 +1539,7 @@
 	},
 	"output.Powershell":
 	{
-		"height": 340.0
+		"height": 248.0
 	},
 	"output.Terminus Build Results":
 	{
@@ -1577,6 +1578,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"style",
+				"assets\\css\\styles.css"
+			],
 			[
 				"sty",
 				"assets\\scss\\styles.scss"
@@ -1639,10 +1644,6 @@
 			],
 			[
 				"s",
-				"style.css"
-			],
-			[
-				"style",
 				"style.css"
 			],
 			[
@@ -1775,9 +1776,13 @@
 	"select_project":
 	{
 		"height": 599.0,
-		"last_filter": "raygame",
+		"last_filter": "platfor",
 		"selected_items":
 		[
+			[
+				"platfor",
+				"C:\\Dev\\C\\platformer\\ray_platformer.sublime-project"
+			],
 			[
 				"raygame",
 				"C:\\Dev\\C\\raygame\\raygame.sublime-project"
